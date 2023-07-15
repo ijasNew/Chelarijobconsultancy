@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+.top{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+.top img{
+    width: 180px;
+
+}
+.dataClass{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    margin-top: 25px;
+
+}
+.dataClass a{
+    text-decoration: none;
+    font-size: 19px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    color: #1c3664; 
+}
